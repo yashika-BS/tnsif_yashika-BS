@@ -1,6 +1,7 @@
 package com.tnsif.day15.Arraylistdemo;
 
 public class Arraylist {
+	public static void main(String args[]) {
 	Arraylist list1 = new Arraylist();// creates empty raw ArrayList (allows heterogeneous elements)
 	System.out.println("Size : "+list1.size());
 	System.out.println("Is list empty? "+list1.isEmpty());
